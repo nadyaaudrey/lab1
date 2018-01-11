@@ -13,7 +13,7 @@
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      border: 1px dotted gray;
-     padding: 20px;
+     padding: 10px;
 }
 
 .jumbotron {
@@ -31,4 +31,7 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;
+}
+.project{
+     margin-left: 20px;
 }
